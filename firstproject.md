@@ -1,18 +1,19 @@
-# Heading
+# Heading: Rasberry PI 4 Shut Down procedures
 
 some test notes
 
-- 1st point
-- 2nd point
-- 3rd point
+- DON'T PRESS THE PISWITCH, YET!
+- First shut down the PI, by choosing shut down. 
+- After Push the PISWITCH, you should hear the fan stop running.  
+- Remember, press shutdown when choosing the shutdown option at the top. 
 
-## 2nd heading
+## 2nd heading: Power up procedures
 
-some more notes
+Notes
 
-- 1st point
+- Push the PISWITCH, it should show a red light, which means it is on. 
 
-### 3rd heading
+### 3rd heading 
 
 my last notes
 
